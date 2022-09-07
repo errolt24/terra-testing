@@ -1,3 +1,3 @@
-outputs "main" {
+output "main" {
 	value= "hello world"
 }
